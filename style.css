@@ -1,0 +1,11 @@
+.section{
+    height: 300px;
+    width: 400px;
+    background-color: grey;
+    margin: auto;
+    margin-top: 200px;
+}
+
+.btn{
+    margin:150px 150px;
+}
